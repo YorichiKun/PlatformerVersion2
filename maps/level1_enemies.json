@@ -1,0 +1,32 @@
+{
+  "enemies": [
+    {
+      "name": "Sceleton",
+      "start_pos": [6, 15],
+      "final_pos": [11, 15]
+    },
+    {
+      "name": "Sceleton",
+      "start_pos": [23, 11],
+      "final_pos": [25, 11]
+    },
+    {
+      "name": "Sceleton",
+      "start_pos": [25, 17],
+      "final_pos": [27, 17]
+    }
+  ],
+  "coins": [
+    {
+      "name": "Ruby",
+      "star_pos": [38, 17],
+      "fina_pos": [38, 15]
+    }
+  ],
+  "portals": [
+    {
+      "name": "Green",
+      "pos": [38, 4.5]
+    }
+  ]
+}
